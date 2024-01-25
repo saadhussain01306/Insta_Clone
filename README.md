@@ -38,11 +38,11 @@ The project uses the Poppins font from Google Fonts and Remixicon for icons. You
 - [Remixicon](https://remixicon.com/) - Icons used in the project.
 - [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins) - Font used in the project.
 
- **Clone the Repository:**
+ ## Clone the Repository:
    ```bash
    git clone https://github.com/saadhussain01306/Insta_Clone.git
    cd Insta_Clone
-'''
+```
 
 
 ## Visit the Website
