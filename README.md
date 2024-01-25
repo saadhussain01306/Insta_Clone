@@ -42,6 +42,8 @@ The project uses the Poppins font from Google Fonts and Remixicon for icons. You
    ```bash
    git clone https://github.com/saadhussain01306/Insta_Clone.git
    cd Insta_Clone
+'''
+
 
 ## Visit the Website
 
