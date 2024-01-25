@@ -38,6 +38,11 @@ The project uses the Poppins font from Google Fonts and Remixicon for icons. You
 - [Remixicon](https://remixicon.com/) - Icons used in the project.
 - [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins) - Font used in the project.
 
+ **Clone the Repository:**
+   ```bash
+   git clone https://github.com/saadhussain01306/Insta_Clone.git
+   cd Insta_Clone
 
+## Visit the Website
 
-Feel free to explore, modify, and use this Instagram clone as a starting point for your own web development projects. 
+To see the Instagram clone in action, you can visit the [Instagram Clone Demo](https://saadhussain01306.github.io/Insta_Clone/) hosted on GitHub Pages.
